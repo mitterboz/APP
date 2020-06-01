@@ -1,8 +1,7 @@
 {
-  "data" : {
+ "data" : {
   "totalCount": 10,
-  "error": null
-  },
+  "error": null,
   "items": [
   {
     "name": "Shubert",
