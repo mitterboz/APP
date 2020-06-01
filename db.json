@@ -1,4 +1,8 @@
 {
+  "data" : {
+  "totalCount": 10,
+  "error": null
+  },
   "items": [
   {
     "name": "Shubert",
@@ -100,7 +104,5 @@
     "status": null,
     "followed": false
   }
-  ],
-  "totalCount": 30,
-  "error": null
+  ]
 }
