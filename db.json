@@ -11,27 +11,63 @@
       "large": null
     },
     "status": null,
-    "followed": false
+    "followed": false,
+   "info": {
+     "fullName": "Shubert Ivan",
+     "about": "Music is my life",
+     "lookingForAJob": true,
+     "contacts": {
+      "facebook": "facebook.com",
+      "website": null,
+      "vk": "vk.com",
+      "yputube": null,
+      "github": "github.com"
+     }
+   }
   },
    {
-    "name": "Krombol",
+    "name": "Krot",
     "id": 2,
     "photos": {
       "small": null,
       "large": null
     },
     "status": null,
-    "followed": false
+    "followed": false,
+    "info": {
+     "fullName": "Krot Fedor",
+     "about": "Love Earth",
+     "lookingForAJob": true,
+     "contacts": {
+      "facebook": "facebook.com",
+      "website": null,
+      "vk": "vk.com",
+      "yputube": null,
+      "github": "github.com"
+     }
+   }
   },
   {
-    "name": "Hacker",
+    "name": "Neo",
     "id": 3,
     "photos": {
       "small": null,
       "large": null
     },
     "status": null,
-    "followed": false
+    "followed": false,
+    "info": {
+     "fullName": "Neo Neonoviy",
+     "about": "Morphius give me red drugs",
+     "lookingForAJob": true,
+     "contacts": {
+      "facebook": "facebook.com",
+      "website": null,
+      "vk": "vk.com",
+      "yputube": null,
+      "github": "github.com"
+     }
+   }
   },
    {
     "name": "Robert",
@@ -41,7 +77,19 @@
       "large": null
     },
     "status": null,
-    "followed": false
+    "followed": false,
+    "info": {
+     "fullName": "Rob Stark",
+     "about": "Winter is the best part of year",
+     "lookingForAJob": true,
+     "contacts": {
+      "facebook": "facebook.com",
+      "website": null,
+      "vk": "vk.com",
+      "yputube": null,
+      "github": "github.com"
+     }
+   }
   },
    {
     "name": "Viola",
@@ -51,7 +99,19 @@
       "large": null
     },
     "status": null,
-    "followed": false
+    "followed": false,
+    "info": {
+     "fullName": "Viola Lola",
+     "about": "Sing on viola",
+     "lookingForAJob": true,
+     "contacts": {
+      "facebook": "facebook.com",
+      "website": null,
+      "vk": "vk.com",
+      "yputube": null,
+      "github": "github.com"
+     }
+   }
   },
    {
     "name": "Gilbert",
@@ -61,7 +121,19 @@
       "large": null
     },
     "status": null,
-    "followed": false
+    "followed": false,
+    "info": {
+     "fullName": "Gilbert Grape",
+     "about": "Love my Life",
+     "lookingForAJob": true,
+     "contacts": {
+      "facebook": "facebook.com",
+      "website": null,
+      "vk": "vk.com",
+      "yputube": null,
+      "github": "github.com"
+     }
+   }
   },
    {
     "name": "Dorian",
@@ -71,7 +143,19 @@
       "large": null
     },
     "status": null,
-    "followed": false
+    "followed": false,
+    "info": {
+     "fullName": "Dorian Greevich",
+     "about": "Love my picture",
+     "lookingForAJob": true,
+     "contacts": {
+      "facebook": "facebook.com",
+      "website": null,
+      "vk": "vk.com",
+      "yputube": null,
+      "github": "github.com"
+     }
+   }
   },
    {
     "name": "Milena",
@@ -81,7 +165,19 @@
       "large": null
     },
     "status": null,
-    "followed": false
+    "followed": false,
+    "info": {
+     "fullName": "Milena Kitanovna",
+     "about": "Mixed Martial Arts",
+     "lookingForAJob": true,
+     "contacts": {
+      "facebook": "facebook.com",
+      "website": null,
+      "vk": "vk.com",
+      "yputube": null,
+      "github": "github.com"
+     }
+   }
   },
    {
     "name": "Frodo",
@@ -91,7 +187,19 @@
       "large": null
     },
     "status": null,
-    "followed": false
+    "followed": false,
+    "info": {
+     "fullName": "Frodo Baggins",
+     "about": "Where is my ring?",
+     "lookingForAJob": true,
+     "contacts": {
+      "facebook": "facebook.com",
+      "website": null,
+      "vk": "vk.com",
+      "yputube": null,
+      "github": "github.com"
+     }
+   }
   },
    {
     "name": "Stetham",
@@ -101,7 +209,19 @@
       "large": null
     },
     "status": null,
-    "followed": false
+    "followed": false,
+    "info": {
+     "fullName": "Stetham Ivan",
+     "about": "Drive is my life",
+     "lookingForAJob": true,
+     "contacts": {
+      "facebook": "facebook.com",
+      "website": null,
+      "vk": "vk.com",
+      "yputube": null,
+      "github": "github.com"
+     }
+   }
   }
   ]
 }
